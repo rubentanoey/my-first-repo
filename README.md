@@ -1,2 +1,8 @@
 # my-first-repo
-PBP trial repository
+Nama    : Ruben Tanoey
+
+NPM     : 2106752445
+
+Kelas   : D
+
+Hobi    : Merenung
